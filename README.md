@@ -12,6 +12,6 @@ Simulation of the high-order PDE is easier with the spectral method. The idea is
 
 The output is plots of solution for different time moments.
 
-![Alt-the example of the output file](https://github.com/V0lkoff/PDE-with-spectral-method/blob/master/example.png)
+![the example of the output file](https://github.com/V0lkoff/PDE-with-spectral-method/blob/master/example.png)
 
 There are a lot of commented commands. The reason is that the script was used for the investigation of wave processes.
